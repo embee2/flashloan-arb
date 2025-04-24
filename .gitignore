@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Hardhat caches & artifacts
+cache/
+artifacts/
+
+# Environment variables
+.env
